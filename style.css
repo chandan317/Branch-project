@@ -3,5 +3,6 @@ h1 {
 }
 button {
   color: yellow;
-  background-color: tomato;
+  background-color: rgba(250, 3, 3, 0.957);
+  font-size: 25px;
 }
